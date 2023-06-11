@@ -5,7 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Introduction](#Adım1)
+- [Adım1](#Adım1)
 - [Features](#features)
 - [Feedback](#feedback)
 - [Contributors](#contributors)
@@ -23,6 +23,8 @@
   <p> Öncelikle KONYA ağı oluşturuldu, IP bölümlemesi yapılacak olan ağlar belirlendi.
 </p>
 Daha sonra IP bölümlemesi için büyük olan ağdan başlanıldı. IP 32 bitlik bir sayı olduğundan 2'nin kuvvetleri şeklinde bölünebilir, 100 IP ihtiyacı olan bir IP için 128 IP bulunan bir aralık belirlenebilir.<i> Böylece ilk ağın network adresi  172.16.42.0 subneti ise /25 olmuştur </i> Bu ağda 172.16.41.1 gateway olarak ayarlandı, PC-1 bilgisayarına ise 172.16.42.2 ip adresi verildi.
+<h3> Router Ayarları <h3>
+  
 
 
 
