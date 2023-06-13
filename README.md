@@ -219,9 +219,19 @@
     </p>
 
 ## Adım17
-    
-    
-    
+<i>IZMIR’e bağlı PC3’ün, VAN’a bağlı PC1’in internete erişim sorunu vardır. Lütfen bu sorunu çözün. </i>
+ <br>
+<p>Bu sorunun kaynağı FR Switchte doğru konfigurasyonun yapılmamış olmasıdır.
+   <p align="center">
+   <img src="https://github.com/nurdinler/finalCase/assets/73022659/ba90dd41-5c14-4766-be02-adf3c643caca"> 
+  <p> Frame Relay Ayarı
+    </p>
+<p> Aynı zamanda Ankara routerında bilinmeyen iplerde Erzurum routerına yönlendirme ayarı da yapılmıştır.
+    <p align="center">
+   <img src="https://github.com/nurdinler/finalCase/assets/73022659/7457e84e-a050-4829-8022-abeeda03c6b8"> 
+  <p> Routing Ayarı
+    </p>
+
 ## Adım 18
     <i> IZMIR routerda telnet erişimini açıp sadece lokal ağının buna bağlanmasına izin veriniz.</i>
  <p align="center">
