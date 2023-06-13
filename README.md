@@ -199,8 +199,8 @@
 
 
 ## Adım16
-<i> Kayseri Routera bağlı Linksys cihazının 192.168.138.0/24 aralığından kablosuz IP dağıtmasını sağlayınız. Ancak  kablosuz ağı mümkün olduğunca güvenlikli hale getiriniz. </i>
-     <p align="center">
+<i>Kayseri Routera bağlı Linksys cihazının 192.168.138.0/24 aralığından kablosuz IP dağıtmasını sağlayınız. Ancak  kablosuz ağı mümkün olduğunca güvenlikli hale getiriniz. </i>
+ <p align="center">
    <img src="https://github.com/nurdinler/WayToFutureFinalCase/blob/main/images/245503074-97733845-b4e9-4691-a3d3-f0c56eed6d65.png"> 
   <p> Öncelikle lapropa wifi adaptörü modülü eklendi
     </p>
@@ -233,7 +233,7 @@
     </p>
 
 ## Adım 18
-    <i> IZMIR routerda telnet erişimini açıp sadece lokal ağının buna bağlanmasına izin veriniz.</i>
+ <i> IZMIR routerda telnet erişimini açıp sadece lokal ağının buna bağlanmasına izin veriniz.</i>
  <p align="center">
    <img src="https://github.com/nurdinler/WayToFutureFinalCase/blob/main/images/245503910-d9e9785b-f763-450a-99eb-315996d68b95.png"> 
   <p> İzmir routerında telnetin açılması
