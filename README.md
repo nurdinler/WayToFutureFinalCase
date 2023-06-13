@@ -151,6 +151,7 @@
  <p align="center">
     <img src="https://github.com/nurdinler/finalCase/assets/73022659/ac34a543-c543-4186-8a0e-d91c827e3034"> 
 <p>KAyseri routerında OSPF'in çalıştığı görülmekte
+  </p>
          
          
 ## Adım12
@@ -158,33 +159,70 @@
 <p align="center">
   <img src="https://github.com/nurdinler/finalCase/assets/73022659/e33be2fe-bb58-41fc-a2e8-544343a3f08e"> 
 <p>Ankara için
+  </p>
 <p align="center">
  <img src="https://github.com/nurdinler/finalCase/assets/73022659/68623870-37cc-44a4-bc8a-ec7fbbc08076"> 
 <p>Erzurum için
+    </p>
          
 ## Adım13
 <i>Erzurum router’dan internete bağlanmaktayız. Servis sağlayıcı tarafından bize 88.1.1.1 ile 88.1.1.13 IPleri  verilmiştir. Buna göre Dinamik nat yapılandırmasını tamamlayınız. Kurumumuza atanan IP adreslerinden 88.1.1.2  ile 88.1.1.10 aralığını dış havuz olarak kullanınız. </i>
-
-     
-
-
+ <p align="center">
+   <img src="https://github.com/nurdinler/finalCase/assets/73022659/f311ef98-7c45-4888-a49e-92bce905372f"> 
+  <p>
+    </p>
   
+    
+## Adım14
+<i>Kurumumuzda IP adresi 192.168.165.100 olan bir web server bulunmaktadır. Bu servere kurum dışından  88.1.1.13 IP’si ile erişilebilmesini sağlayacak şekilde static NAT yapılandırın. Buna göre kurum dışındaki DNS’e  www.erdal.com adresini kayıt ettiriniz.  </i>
+     <p align="center">
+   <img src="https://github.com/nurdinler/finalCase/assets/73022659/aa86c065-8131-4e09-813c-824ddc463f31"> 
+  <p>
+    </p>
+    
+## Adım15
+<i> Van router üzerinde bulunan Misafir VLAN için aşağıdaki kısıtlamalara göre bir ACL tanımlayıp filtreleme  sağlayınız.</i>
+       <p align="center">
+   <img src="https://github.com/nurdinler/finalCase/assets/73022659/31697dbd-1408-4739-9083-c68d9fc8f77b"> 
+  <p>
+    </p>
+
+
+## Adım16
+<i> Kayseri Routera bağlı Linksys cihazının 192.168.138.0/24 aralığından kablosuz IP dağıtmasını sağlayınız. Ancak  kablosuz ağı mümkün olduğunca güvenlikli hale getiriniz. </i>
+     <p align="center">
+   <img src="https://github.com/nurdinler/finalCase/assets/73022659/97733845-b4e9-4691-a3d3-f0c56eed6d65"> 
+  <p> Öncelikle lapropa wifi adaptörü modülü eklendi
+    </p>
+      <p align="center">
+   <img src="https://github.com/nurdinler/finalCase/assets/73022659/87a92e3f-474b-4436-8a43-443537f882c7"> 
+  <p> Laptopın wireless routera bağlandığı görülmektedir.
+    </p>
+   
+       <p align="center">
+   <img src="https://github.com/nurdinler/finalCase/assets/73022659/cfeba803-2162-4404-86d1-f064ae8c7883"> 
+  <p> Wireless router ayarları
+    </p>
+     <p align="center">
+   <img src="https://github.com/nurdinler/finalCase/assets/73022659/64c8e43b-efee-45f5-a624-0e8a9b38d185"> 
+  <p> Wireless router güvenlik ayarları
+    </p>
+
+## Adım17
+    
+    
+    
+## Adım 18
+    <i> IZMIR routerda telnet erişimini açıp sadece lokal ağının buna bağlanmasına izin veriniz.</i>
+ <p align="center">
+   <img src="https://github.com/nurdinler/finalCase/assets/73022659/d9e9785b-f763-450a-99eb-315996d68b95"> 
+  <p> İzmir routerında telnetin açılması
+    </p>
     
 
 
-     
-     
 
 
-
-     
-  
-
-
-
-
-
-
-
-
-
+    
+    
+    
