@@ -7,12 +7,22 @@
 
 - [Adım1](#Adım1)
 - [Adım2](#Adım2)
-- [Feedback](#feedback)
-- [Contributors](#contributors)
-- [Build Process](#build-process)
-- [Backers](#backers-)
-- [Sponsors](#sponsors-)
-- [Acknowledgments](#acknowledgments)
+- [Adım3](#Adım3)
+- [Adım4](#Adım4)
+- [Adım5](#Adım5)
+- [Adım6](#Adım6)
+- [Adım7](#Adım7)
+- [Adım8](#Adım8)
+- [Adım9](#Adım9)
+- [Adım10](#Adım10)
+- [Adım11](#Adım11)
+- [Adım12](#Adım12)
+- [Adım13](#Adım13)
+- [Adım14](#Adım14)
+- [Adım15](#Adım15)
+- [Adım16](#Adım16)
+- [Adım17](#Adım17)
+- [Adım18](#Adım18)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
